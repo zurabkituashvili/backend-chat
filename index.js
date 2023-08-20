@@ -14,7 +14,7 @@ const db = mysql.createPool({
   host: "sql.freedb.tech",
   port: 3306,
   user: "freedb_azzula",
-  password: "&j*SyUBhwFXg2Nc",
+  password: "eW8DKCuzK4%Vxna",
   database: "freedb_chat-history",
 });
 
